@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Chat",
+  "description": "A Telegram-style real-time chat platform with channels, AI bots, and monetization unlocks. It features a kill switch for administrators and clone logic for users to launch their own branded servers. Integrated with top AI models for intelligent interactions and automation.",
+  "requestFramePermissions": []
+}
